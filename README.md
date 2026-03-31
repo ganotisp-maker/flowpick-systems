@@ -19,7 +19,7 @@ A modern, lightweight, and mobile-friendly web application designed to streamlin
 - **Frontend:** HTML5, CSS3 (Custom Glassmorphism UI), Bootstrap 5
 
 ## 📸 Preview
-*(Tip: Add a screenshot of your app here once you upload it!)*
+*![FlowPick Dashboard](flowpick_dashboard.png)*
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
