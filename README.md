@@ -24,5 +24,5 @@ A modern, lightweight, and mobile-friendly web application designed to streamlin
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/flowpick-systems.git](https://github.com/YOUR_USERNAME/flowpick-systems.git)
+   git clone [https://github.com/ganotis-maker/flowpick-systems.git](https://github.com/ganotis-maker/flowpick-systems.git)
    cd flowpick-systems
